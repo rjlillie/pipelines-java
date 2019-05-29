@@ -1,3 +1,4 @@
+[![Build Status](https://msi-cto.visualstudio.com/cloud-operations/_apis/build/status/rjlillie.pipelines-java?branchName=master)](https://msi-cto.visualstudio.com/cloud-operations/_build/latest?definitionId=55&branchName=master)
 
 # Contributing
 
